@@ -13,10 +13,10 @@ I'm Anik Kumar Bhushan, a passionate Data Analyst and Mobile Applications Develo
 - 📱 Mobile apps are my playground—I enjoy building user-friendly experiences.
 - 🚀 Exploring the fascinating world of AR and VR.
 
-## Let's Connect!
+## Let's Connect! :coffee:
 
-- LinkedIn: https://www.linkedin.com/in/anik-kumar-bhushan-9a73901a4/
-- Twitter: @anik_bhushan
+- [LinkedIn](https://www.linkedin.com/in/anik-kumar-bhushan-9a73901a4/)
+- [Twitter](https://x.com/anik_bhushan)
 
 Feel free to reach out—I'd love to chat about data, mobile apps, or anything tech-related! 🤓
 
