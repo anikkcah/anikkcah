@@ -2,6 +2,8 @@
 
 # Hi there! 👋
 
+<img src="https://raw.githubusercontent.com/anikkcah/anikkcah/master/resources/banner.gif" alt="the image shows an evening when sun goes to bay , laptop on the table and from the window a falling star is visible">
+
 I'm Anik Kumar Bhushan, a passionate Data Analyst and Mobile Applications Developer with a keen interest in AR-VR technologies.
 
 ## About Me
