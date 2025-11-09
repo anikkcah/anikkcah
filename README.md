@@ -8,7 +8,7 @@ I'm Anik Kumar Bhushan, a passionate Data Analyst and Mobile Applications Develo
 
 ## About Me
 
-- 🌐 Check out my portfolio website: [4nikBhushan](https://anik-bhushan.onrender.com)
+- 🌐 Check out my portfolio website: [4nikBhushan](https://anik-kumar-bhushan.onrender.com)
 - 📊 I love diving into data and extracting insights.
 - 📱 Mobile apps are my playground—I enjoy building user-friendly experiences.
 - 🚀 Exploring the fascinating world of AR and VR.
